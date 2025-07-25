@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="Test">
+    <Meta>
+        <Application name="NONE" versionMajor="1" versionMinor="0" />
+        <Brand name="LDDExtended" />
+        <Environment name="Standard" />
+        <BrickSet version="1007" />
+        <ModelRepository experience="NONE" scanDate="2023-09-19T12:22:22Z" />
+    </Meta>
+    <Cameras>
+        <Camera refID="0" fieldOfView="80" distance="100" transformation="0,0,0,0,0,0,0,0,0,0,0,0" />
+    </Cameras>
+    <Bricks cameraRef="0">
+        <Brick refID="0" designID="87079">
+            <Part refID="0" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,4.399999618530273,8.960000038146973,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="1" designID="87079">
+            <Part refID="1" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="1" transformation="-1,0,0,0,1,0,0,0,-1,4.399999618530273,9.280000686645508,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="2" designID="87079">
+            <Part refID="2" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="2" transformation="-1,0,0,0,1,0,0,0,-1,4.399999618530273,8.960000038146973,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="3" designID="87079">
+            <Part refID="3" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="3" transformation="-1,0,0,0,1,0,0,0,-1,4.399999618530273,9.280000686645508,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="4" designID="3068">
+            <Part refID="4" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="4" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,8.960000038146973,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="5" designID="3068">
+            <Part refID="5" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="5" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,9.280000686645508,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="6" designID="3068">
+            <Part refID="6" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="6" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,8.960000038146973,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="7" designID="3068">
+            <Part refID="7" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="7" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,9.280000686645508,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="8" designID="3068">
+            <Part refID="8" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="8" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,8.960000038146973,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="9" designID="3068">
+            <Part refID="9" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="9" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,9.280000686645508,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="10" designID="3068">
+            <Part refID="10" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="10" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,8.960000038146973,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="11" designID="3068">
+            <Part refID="11" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="11" transformation="0,0,1,0,1,0,-1,0,0,5.199999809265137,9.280000686645508,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="12" designID="87079">
+            <Part refID="12" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="12" transformation="0,0,-1,0,1,0,1,0,0,6.000000000000000,8.960000038146973,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="13" designID="87079">
+            <Part refID="13" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="13" transformation="0,0,-1,0,1,0,1,0,0,6.000000000000000,9.280000686645508,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="14" designID="6636">
+            <Part refID="14" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="14" transformation="0,0,1,0,1,0,-1,0,0,6.000000000000000,0.000000000000000,-5.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="15" designID="87079">
+            <Part refID="15" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="15" transformation="0,0,-1,0,1,0,1,0,0,6.000000000000000,8.960000038146973,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="16" designID="87079">
+            <Part refID="16" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="16" transformation="0,0,-1,0,1,0,1,0,0,6.000000000000000,9.280000686645508,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="17" designID="6636">
+            <Part refID="17" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="17" transformation="0,0,1,0,1,0,-1,0,0,6.000000000000000,0.000000000000000,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="18" designID="3245">
+            <Part refID="18" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="18" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,5.120000362396240,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="19" designID="3245">
+            <Part refID="19" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="19" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,2.240000009536743,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="20" designID="3069">
+            <Part refID="20" designID="3069" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="20" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.319999694824219,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="21" designID="3010">
+            <Part refID="21" designID="3010" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="21" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,7.040000438690186,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="22" designID="3245">
+            <Part refID="22" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="22" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,5.120000362396240,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="23" designID="3245">
+            <Part refID="23" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="23" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,2.240000009536743,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="24" designID="3010">
+            <Part refID="24" designID="3010" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="24" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,1.280000090599060,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="25" designID="2431">
+            <Part refID="25" designID="2431" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="25" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.960000038146973,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="26" designID="3069">
+            <Part refID="26" designID="3069" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="26" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.640000045299530,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="27" designID="2431">
+            <Part refID="27" designID="2431" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="27" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.320000022649765,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="28" designID="87079">
+            <Part refID="28" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="28" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.960000038146973,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="29" designID="87079">
+            <Part refID="29" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="29" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,9.280000686645508,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="30" designID="3005">
+            <Part refID="30" designID="3005" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="30" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,5.120000362396240,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="31" designID="14716">
+            <Part refID="31" designID="14716" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="31" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,1.280000090599060,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="32" designID="3005">
+            <Part refID="32" designID="3005" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="32" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.320000022649765,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="33" designID="6636">
+            <Part refID="33" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="33" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.000000000000000,-5.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="34" designID="3068">
+            <Part refID="34" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="34" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.960000038146973,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="35" designID="3068">
+            <Part refID="35" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="35" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,9.280000686645508,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="36" designID="3004">
+            <Part refID="36" designID="3004" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="36" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.000000000000000,-6.800000190734863" />
+            </Part>
+        </Brick>
+        <Brick refID="37" designID="3068">
+            <Part refID="37" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="37" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.960000038146973,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="38" designID="3068">
+            <Part refID="38" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="38" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,9.280000686645508,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="39" designID="6636">
+            <Part refID="39" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="39" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,8.640000343322754,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="40" designID="6636">
+            <Part refID="40" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="40" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,8.000000000000000,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="41" designID="3009">
+            <Part refID="41" designID="3009" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="41" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,6.080000400543213,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="42" designID="3009">
+            <Part refID="42" designID="3009" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="42" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,7.040000438690186,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="43" designID="3005">
+            <Part refID="43" designID="3005" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="43" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,5.120000362396240,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="44" designID="3009">
+            <Part refID="44" designID="3009" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="44" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,4.159999847412109,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="45" designID="14716">
+            <Part refID="45" designID="14716" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="45" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,1.280000090599060,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="46" designID="3005">
+            <Part refID="46" designID="3005" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="46" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.320000022649765,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="47" designID="3069">
+            <Part refID="47" designID="3069" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="47" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.319999694824219,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="48" designID="3245">
+            <Part refID="48" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="48" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,5.120000362396240,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="49" designID="3245">
+            <Part refID="49" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="49" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,2.240000009536743,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="50" designID="3069">
+            <Part refID="50" designID="3069" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="50" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.640000045299530,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="51" designID="87079">
+            <Part refID="51" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="51" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.960000038146973,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="52" designID="87079">
+            <Part refID="52" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="52" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,9.280000686645508,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="53" designID="3010">
+            <Part refID="53" designID="3010" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="53" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,7.040000438690186,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="54" designID="3245">
+            <Part refID="54" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="54" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,5.120000362396240,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="55" designID="3245">
+            <Part refID="55" designID="3245" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="55" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,2.240000009536743,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="56" designID="3010">
+            <Part refID="56" designID="3010" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="56" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,1.280000090599060,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="57" designID="2431">
+            <Part refID="57" designID="2431" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="57" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.960000038146973,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="58" designID="2431">
+            <Part refID="58" designID="2431" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="58" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.320000022649765,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="59" designID="6636">
+            <Part refID="59" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="59" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,0.000000000000000,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="60" designID="3068">
+            <Part refID="60" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="60" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.960000038146973,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="61" designID="3068">
+            <Part refID="61" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="61" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,9.280000686645508,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="62" designID="3665">
+            <Part refID="62" designID="3665" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="62" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,8.000000000000000,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="63" designID="14716">
+            <Part refID="63" designID="14716" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="63" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,5.120000362396240,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="64" designID="14716">
+            <Part refID="64" designID="14716" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="64" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,1.280000090599060,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="65" designID="3040">
+            <Part refID="65" designID="3040" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="65" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,0.320000022649765,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="66" designID="3665">
+            <Part refID="66" designID="3665" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="66" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,8.000000000000000,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="67" designID="14716">
+            <Part refID="67" designID="14716" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="67" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,5.120000362396240,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="68" designID="3009">
+            <Part refID="68" designID="3009" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="68" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,4.159999847412109,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="69" designID="14716">
+            <Part refID="69" designID="14716" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="69" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,1.280000090599060,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="70" designID="3040">
+            <Part refID="70" designID="3040" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="70" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,0.320000022649765,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="71" designID="3068">
+            <Part refID="71" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="71" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,8.960000038146973,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="72" designID="3068">
+            <Part refID="72" designID="3068" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="72" transformation="0,0,1,0,1,0,-1,0,0,0.399999976158142,9.280000686645508,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="73" designID="6636">
+            <Part refID="73" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="73" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,8.640000343322754,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="74" designID="6636">
+            <Part refID="74" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="74" transformation="0,0,-1,0,1,0,1,0,0,0.399999976158142,8.000000000000000,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="75" designID="14716">
+            <Part refID="75" designID="14716" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="75" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,3.200000286102295,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="76" designID="4460">
+            <Part refID="76" designID="4460" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="76" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,6.080000400543213,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="77" designID="3005">
+            <Part refID="77" designID="3005" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="77" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,5.120000362396240,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="78" designID="3005">
+            <Part refID="78" designID="3005" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="78" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,3.200000286102295,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="79" designID="2449">
+            <Part refID="79" designID="2449" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="79" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.320000022649765,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="80" designID="3005">
+            <Part refID="80" designID="3005" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="80" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,7.040000438690186,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="81" designID="3005">
+            <Part refID="81" designID="3005" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="81" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,8.000000000000000,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="82" designID="3665">
+            <Part refID="82" designID="3665" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="82" transformation="-1,0,0,0,1,0,0,0,-1,1.199999928474426,6.080000400543213,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="83" designID="14716">
+            <Part refID="83" designID="14716" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="83" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,3.200000286102295,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="84" designID="4460">
+            <Part refID="84" designID="4460" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="84" transformation="-1,0,0,0,1,0,0,0,-1,1.199999928474426,0.320000022649765,-3.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="85" designID="4287">
+            <Part refID="85" designID="4287" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="85" transformation="-1,0,0,0,1,0,0,0,-1,1.199999928474426,7.040000438690186,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="86" designID="2877">
+            <Part refID="86" designID="2877" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="86" transformation="0,0,1,0,1,0,-1,0,0,1.199999928474426,8.000000000000000,-5.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="87" designID="6636">
+            <Part refID="87" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="87" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.000000000000000,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="88" designID="2877">
+            <Part refID="88" designID="2877" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="88" transformation="0,0,1,0,1,0,-1,0,0,1.199999928474426,8.000000000000000,-6.800000190734863" />
+            </Part>
+        </Brick>
+        <Brick refID="89" designID="6636">
+            <Part refID="89" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="89" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.000000000000000,-6.800000190734863" />
+            </Part>
+        </Brick>
+        <Brick refID="90" designID="10202">
+            <Part refID="90" designID="10202" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="90" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.000000000000000,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="91" designID="2877">
+            <Part refID="91" designID="2877" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="91" transformation="0,0,1,0,1,0,-1,0,0,1.199999928474426,8.000000000000000,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="92" designID="4287">
+            <Part refID="92" designID="4287" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="92" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,7.040000438690186,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="93" designID="3005">
+            <Part refID="93" designID="3005" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="93" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,7.040000438690186,-9.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="94" designID="3005">
+            <Part refID="94" designID="3005" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="94" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,8.000000000000000,-9.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="95" designID="3665">
+            <Part refID="95" designID="3665" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="95" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,6.080000400543213,-9.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="96" designID="14716">
+            <Part refID="96" designID="14716" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="96" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,3.200000286102295,-9.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="97" designID="4460">
+            <Part refID="97" designID="4460" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="97" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.320000022649765,-9.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="98" designID="4460">
+            <Part refID="98" designID="4460" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="98" transformation="-1,0,0,0,1,0,0,0,-1,1.199999928474426,6.080000400543213,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="99" designID="3005">
+            <Part refID="99" designID="3005" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="99" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,5.120000362396240,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="100" designID="3005">
+            <Part refID="100" designID="3005" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="100" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,3.200000286102295,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="101" designID="2449">
+            <Part refID="101" designID="2449" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="101" transformation="-1,0,0,0,1,0,0,0,-1,1.199999928474426,0.320000022649765,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="102" designID="14716">
+            <Part refID="102" designID="14716" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="102" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,3.200000286102295,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="103" designID="6636">
+            <Part refID="103" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="103" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.000000000000000,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="104" designID="6636">
+            <Part refID="104" designID="6636" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="104" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.000000000000000,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="105" designID="10202">
+            <Part refID="105" designID="10202" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="105" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,0.000000000000000,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="106" designID="3031">
+            <Part refID="106" designID="3031" materials="329" MaterialType="LegoBrick_White_Glow" RGBA="65,65,65,1.000000">
+                <Bone refID="106" transformation="0,0,1,0,1,0,-1,0,0,1.999999880790710,9.280000686645508,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="107" designID="3031">
+            <Part refID="107" designID="3031" materials="20" MaterialType="LegoBrick_Trans_White" RGBA="230,230,230,0.498039">
+                <Bone refID="107" transformation="0,0,1,0,1,0,-1,0,0,1.999999880790710,8.960000038146973,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="108" designID="87079">
+            <Part refID="108" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="108" transformation="1,0,0,0,1,0,0,0,1,1.999999880790710,8.960000038146973,-5.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="109" designID="87079">
+            <Part refID="109" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="109" transformation="1,0,0,0,1,0,0,0,1,1.999999880790710,9.280000686645508,-5.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="110" designID="3031">
+            <Part refID="110" designID="3031" materials="329" MaterialType="LegoBrick_White_Glow" RGBA="65,65,65,1.000000">
+                <Bone refID="110" transformation="0,0,1,0,1,0,-1,0,0,1.999999880790710,9.280000686645508,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="111" designID="3031">
+            <Part refID="111" designID="3031" materials="20" MaterialType="LegoBrick_Trans_White" RGBA="230,230,230,0.498039">
+                <Bone refID="111" transformation="0,0,1,0,1,0,-1,0,0,1.999999880790710,8.960000038146973,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="112" designID="87079">
+            <Part refID="112" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="112" transformation="1,0,0,0,1,0,0,0,1,1.999999880790710,8.960000038146973,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="113" designID="87079">
+            <Part refID="113" designID="87079" materials="102" MaterialType="LegoBrick_Solid_MediumBlue" RGBA="115,148,197,1.000000">
+                <Bone refID="113" transformation="1,0,0,0,1,0,0,0,1,1.999999880790710,9.280000686645508,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="114" designID="3070">
+            <Part refID="114" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="114" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,0.000000000000000,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="115" designID="3070">
+            <Part refID="115" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="115" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,0.000000000000000,-6.800000190734863" />
+            </Part>
+        </Brick>
+        <Brick refID="116" designID="3070">
+            <Part refID="116" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="116" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,0.000000000000000,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="117" designID="3070">
+            <Part refID="117" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="117" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,0.000000000000000,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="118" designID="3070">
+            <Part refID="118" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="118" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="119" designID="3070">
+            <Part refID="119" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="119" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.640000045299530,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="120" designID="3070">
+            <Part refID="120" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="120" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-4.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="121" designID="3070">
+            <Part refID="121" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="121" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-5.199999809265137" />
+            </Part>
+        </Brick>
+        <Brick refID="122" designID="3070">
+            <Part refID="122" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="122" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.000000000000000,-6.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="123" designID="3070">
+            <Part refID="123" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="123" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.000000000000000,-6.800000190734863" />
+            </Part>
+        </Brick>
+        <Brick refID="124" designID="3070">
+            <Part refID="124" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="124" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="125" designID="3070">
+            <Part refID="125" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="125" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="126" designID="3070">
+            <Part refID="126" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="126" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="127" designID="3070">
+            <Part refID="127" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="127" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.640000045299530,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="128" designID="3070">
+            <Part refID="128" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="128" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="129" designID="3070">
+            <Part refID="129" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="129" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.640000045299530,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="130" designID="3070">
+            <Part refID="130" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="130" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.000000000000000,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="131" designID="3070">
+            <Part refID="131" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="131" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.000000000000000,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="132" designID="3070">
+            <Part refID="132" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="132" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,8.319999694824219,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="133" designID="3070">
+            <Part refID="133" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="32,32,32,1.000000">
+                <Bone refID="133" transformation="1,0,0,0,1,0,0,0,1,0.399999976158142,0.640000045299530,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="134" designID="3070">
+            <Part refID="134" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="134" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,4.800000190734863,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="135" designID="3070">
+            <Part refID="135" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="16,32,16,1.000000">
+                <Bone refID="135" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,4.480000019073486,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="136" designID="3070">
+            <Part refID="136" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="136" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,4.159999847412109,-2.799999952316284" />
+            </Part>
+        </Brick>
+        <Brick refID="137" designID="3070">
+            <Part refID="137" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="137" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,4.800000190734863,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="138" designID="3070">
+            <Part refID="138" designID="3070" materials="43" MaterialType="CrystalSeamW" RGBA="16,32,16,1.000000">
+                <Bone refID="138" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,4.480000019073486,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="139" designID="3070">
+            <Part refID="139" designID="3070" materials="135" MaterialType="LegoBrick_Solid_SandBlue" RGBA="115,131,156,1.000000">
+                <Bone refID="139" transformation="1,0,0,0,1,0,0,0,1,1.199999928474426,4.159999847412109,-10.000000000000000" />
+            </Part>
+        </Brick>
+    </Bricks>
+    <RigidSystems>
+        <RigidSystem>
+            <Rigid refID="0" transformation="0,0,0,0,0,0,0,0,0,0,0,0" boneRefs="0" />
+        </RigidSystem>
+    </RigidSystems>
+    <GroupSystems>
+        <GroupSystem />
+    </GroupSystems>
+    <BuildingInstructions>
+        <BuildingInstruction name="BuildingGuide1">
+            <Camera cameraRef="0" />
+            <Step name="Step1">
+                <PartRef partRef="0" />
+            </Step>
+        </BuildingInstruction>
+    </BuildingInstructions>
+</LXFML>
