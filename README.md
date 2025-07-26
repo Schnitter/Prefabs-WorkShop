@@ -1,7 +1,5 @@
-
-
-# Prefabs-WorkShop
-Lego World Modular
+![Prefabs WorkShop](https://cdn.vineatech.de/pfws/assets/img/logo.png)
+### Prefabs-WorkShop
 
 
 
