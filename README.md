@@ -1,4 +1,4 @@
-![Prefabs WorkShop Banner](screenshots/banner.png)
+![Prefabs WorkShop Banner](https://cdn.vineatech.de/pfws/assets/img/logo.png)
 
 # Prefabs WorkShop
 
