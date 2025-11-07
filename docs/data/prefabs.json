@@ -1,0 +1,22 @@
+{
+  "prefabs": [
+    {
+      "name": "Interior A0X",
+      "desc": "Kleines Innenraum-Set mit minimalistischer Ausstattung. Ideal als Startpunkt für kompakte Räume.",
+      "image": "assets/previews/011_Interior_a0x.png",
+      "github": "https://github.com/Schnitter/Prefabs-Workshop/tree/Main/011%20(Interior)/a0x"
+    },
+    {
+      "name": "Interior B1X",
+      "desc": "Rustikaler Stil mit Holz, warmem Licht und organischen Formen.",
+      "image": "assets/previews/012_Interior_b1x.png",
+      "github": "https://github.com/Schnitter/Prefabs-Workshop/tree/Main/012%20(Interior)/b1x"
+    },
+    {
+      "name": "Interior C2X",
+      "desc": "Modernes Loft-Design mit hellen Oberflächen und klaren Linien.",
+      "image": "assets/previews/013_Interior_c2x.png",
+      "github": "https://github.com/Schnitter/Prefabs-Workshop/tree/Main/013%20(Interior)/c2x"
+    }
+  ]
+}
